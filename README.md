@@ -7,5 +7,6 @@ Tech Stack Used:-
 -JavaScript: For interactive features like the navigation menu.
 
 How to Run:-
+
 Clone the Repository: Download the project files from GitHub.
 Open in a Browser: Open the index.html file in your web browser to view the portfolio.
