@@ -1,9 +1,11 @@
-Hello! Welcome to my personal portfolio website repository. I'm currently working on this site to showcase my skills, projects, and experiences. 
-Technologies used:-
+Hello! Welcome to my Personal Portfolio! This is a simple website showcasing my projects, skills, and experience.
 
-- HTML
-- CSS
-- JavaScript
+Tech Stack Used:-
 
-This project is still a work in progress, so stay tuned for updates! 
-Thanks for checking out my project!
+-HTML: For structuring the content.
+-CSS: For styling the website and making it look nice.
+-JavaScript: For interactive features like the navigation menu.
+
+How to Run:-
+Clone the Repository: Download the project files from GitHub.
+Open in a Browser: Open the index.html file in your web browser to view the portfolio.
